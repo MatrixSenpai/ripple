@@ -15,7 +15,7 @@ assign_resources! {
         sda: PIN_16,
     },
     dht11: DhtResources {
-        pin: PIN_7,
+        pin: PIN_14,
     },
     sh1106: ShResources {
         controller: SPI0,
