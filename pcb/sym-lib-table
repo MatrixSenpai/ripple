@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AHT20")(type "KiCad")(uri "${KIPRJMOD}/AHT20/AHT20.kicad_sym")(options "")(descr ""))
+  (lib (name "MPL115A2")(type "KiCad")(uri "${KIPRJMOD}/MPL115A2/MPL115A2.kicad_sym")(options "")(descr ""))
+  (lib (name "SS-52400-002")(type "KiCad")(uri "${KIPRJMOD}/SS-52400-002/SS-52400-002.kicad_sym")(options "")(descr ""))
+)

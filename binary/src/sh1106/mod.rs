@@ -9,7 +9,7 @@ use embassy_time::Timer;
 use sh1106_driver::{Builder, prelude::*};
 use sh1106_driver::prelude::DisplayRotation::Rotate180;
 use sh1106_driver::prelude::DisplaySize::Display128x64;
-use heapless::{String, Vec};
+use heapless::String;
 
 use crate::{helpers::*, SensorData, ShResources};
 use data_structs::{ItemLocation};
